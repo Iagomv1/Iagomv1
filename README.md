@@ -8,4 +8,4 @@
 
 👨‍💻 All of my projects are available at github.com/Iagomv1
 
-📫 You can reach me at imaurevale@gmail.com
+📫 You can contact me at my email imaurevale@gmail.com
