@@ -6,6 +6,6 @@
 
 👯 I’m looking to collaborate on Time Series projects
 
-👨‍💻 All of my projects are available at githuh.com/Iagomv1
+👨‍💻 All of my projects are available at github.com/Iagomv1
 
 📫 You can reach me at imaurevale@gmail.com
