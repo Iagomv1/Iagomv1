@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Apex Partners
 
-🌱 I’m currently learning OOP, Machine Learning, Deep Learning and Time Series
+🌱 I’m currently learning Machine Learning, Deep Learning and Time Series
 
 👯 I’m looking to collaborate on Time Series projects
 
