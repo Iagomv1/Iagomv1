@@ -1,6 +1,6 @@
 👋 Hi, I’m Iago!
 
-🔭 I’m currently working on Apex Partners
+🔭 I’m currently working at Autoglass
 
 🌱 I’m currently learning Machine Learning, Deep Learning and Time Series
 
