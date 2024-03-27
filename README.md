@@ -6,9 +6,10 @@
 
 📫 You can contact me at my email imaurevale@gmail.com
 
-
-![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iagomv1&count_private=true&show_icons=true&theme=dark)
-
+<div>
+<img alt ="my stats" align = "top" src = "https://github-readme-stats.vercel.app/api?username=Iagomv1&count_private=true&show_icons=true&theme=dark"/>
+<img alt ="my stats" align = "top" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Iagomv1&layout=compact&theme=dark"/>
+</div>
 
 <div>
       <a href= "https://www.linkedin.com/in/iago-vale-53299a190/" target= "_blank"><img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target= "_blank" a></a>
@@ -17,6 +18,3 @@
     <a href="https://www.instagram.com/iagomvale/" target= "_blank"><img src = https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"></a>
  
 </div>
-
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagomv1&layout=compact&theme=dark)
