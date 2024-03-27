@@ -1,8 +1,6 @@
 👋 Hi, I’m Iago!
 
-🌱 I’m currently learning Machine Learning, Deep Learning and Time Series
-
-👯 I’m looking to collaborate on Time Series projects
+🌱 I’m currently learning Data Analysis.
 
 👨‍💻 All of my projects are available at github.com/Iagomv1
 
